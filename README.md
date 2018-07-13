@@ -8,9 +8,13 @@ This is the client side App that will interface directly with the rest api provi
 
 ### Prerequisites
 
-Rental property cash flow spring application up and running.
+- node.js and npm must be installed
+- npm install -g create-react-app
 
 ### Installing
+
+- create-react-app rental-prop-cf-client
+- Then clone the git project into same directory.
 
 ## Running the tests
 
