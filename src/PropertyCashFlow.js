@@ -26,7 +26,7 @@ class PropertyCashFlow extends Component {
   componentDidMount() {
       const hostname = window && window.location && window.location.hostname;
 
-      var REST_HOST = hostname; // 'ec2-18-188-193-91.us-east-2.compute.amazonaws.com';
+      var REST_HOST = hostname;
       var REST_PORT = '8080';
       this.setState({isLoading: true});
 
